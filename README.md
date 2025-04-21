@@ -1,6 +1,6 @@
 # ÄÜÄ 👋
 
-### 21 / Japanese - 🇯🇵 / 🇬🇧 / 🇩🇪
+### 22 / Japanese - 🇯🇵 / 🇬🇧 / 🇩🇪
 ```
 - Transhumanist-Anthropist, admires Humanity, strictly Human-first
 - Loves Surreal/Absurd jokes
