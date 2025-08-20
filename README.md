@@ -36,6 +36,8 @@
 ### My projects I'm currently working on (public repos only):
 > I'm currently quite busy with life and private projects. Sorry (~May 2025)
 
-[EDLA-rs](https://github.com/0Akise/edla-rs): A Rust project to revive ED(Error Diffusion) for ML. I personally believe that BP/GD is very "wrong" and extremely inefficient. Also, they disrespect actual biological aspects.
+[EDLA-rs](https://github.com/0Akise/edla-rs): A Rust project to revive ED(Error Diffusion) for ML.
 
 [Orbis](https://github.com/0Akise/Orbis): A C++20 project based on SFML3. A header-only UI library focused on ease of use.
+
+[rust_nn_examples](https://github.com/0Akise/rust_nn_examples): A Rust project to implement various neural network models built from scratch using wgpu/tokio.
