@@ -9,29 +9,12 @@
 ```
 
 ```
-# Motto (Me, 2024/02/02)
-- 🇯🇵 出た杭は打たれるが、出過ぎた杭は打たれると爪痕を残す。
-- 🇬🇧 Will it to be so. Stand proud enough to change the world.
-- 🇩🇪 Wer herausragt, wird niedergeschlagen, doch wer weit genug herausragt, hinterlässt Spuren.
-```
-
-```
 # Programming
 - C++ / Rust / Python / Lua
 - I program in Rust a lot, but I hate the current state of the Rust community. It feels like a cult, full of elitists.
 - I use C++20 whenever possible.
 ```
 
-```
-# Fields of interest
-- Philosophy (Language, Consciousness, Logic)
-- Math (Foundational Abstraction, Propositional Logic, Symbology, Discrete-Continous relationship etc.)
-- Physics (Any)
-- Biology (mainly Human)
-- Neuroscience (Any, Brain Anatomy, Neuromorphics, BMI)
-- Computer Science (AI, Computer Vision, Machine Hearing, Artificial Memory, Life Simulations)
-- History (Any)
-```
 
 ### My projects I'm currently working on (public repos only):
 > I'm currently quite busy with life and private projects. Sorry (~May 2025)
@@ -39,5 +22,3 @@
 [EDLA-rs](https://github.com/0Akise/edla-rs): A Rust project to revive ED(Error Diffusion) for ML.
 
 [Orbis](https://github.com/0Akise/Orbis): A C++20 project based on SFML3. A header-only UI library focused on ease of use.
-
-[rust_nn_examples](https://github.com/0Akise/rust_nn_examples): A Rust project to implement various neural network models built from scratch using wgpu/tokio.
