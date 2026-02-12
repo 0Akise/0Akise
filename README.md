@@ -1,6 +1,6 @@
 # ÄÜÄ 👋
 
-### 23(24) / Japanese, 🇯🇵 / 🇬🇧 / 🇩🇪
+### 22(23) / Japanese, 🇯🇵 / 🇬🇧 / 🇩🇪
 ```
 # About Me
 - Transhumanist-Anthropist. Admires Humanity, strictly Human-first.
