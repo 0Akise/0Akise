@@ -1,6 +1,6 @@
 # ÄÜÄ 👋
 
-### 22(23) / Japanese, 🇯🇵 / 🇬🇧 / 🇩🇪
+### 23 / Japanese, 🇯🇵 / 🇬🇧 / 🇩🇪
 ```
 # About Me
 - Transhumanist-Anthropist. Admires Humanity, strictly Human-first.
@@ -11,8 +11,7 @@
 ```
 # Programming
 - C++ / Rust / Python / Lua
-- I do program in Rust a lot, but I hate the current state of the Rust community. It feels like a cult, full of elitists.
-- I use C++20 whenever possible.
+- I use C++20/Rust whenever possible.
 ```
 
 
